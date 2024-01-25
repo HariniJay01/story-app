@@ -1,9 +1,9 @@
 import streamlit as st
 
 # Streamlit secrets
-USER_ID = st.secrets["USER_ID"]
-PAT = st.secrets["PAT"]
-APP_ID = st.secrets["APP_ID"]
+USER_ID = st.secrets["harinijay01"]
+PAT = st.secrets["1009f2a845114c6a962a3a4820dfce3e"]
+APP_ID = st.secrets["bc12fb78cc454b4fb7c06969a136112a"]
 WORKFLOW_ID_IMAGE = st.secrets["General"]
 WORKFLOW_ID_STORY_GPT3 = st.secrets["image-to-story"]
 
